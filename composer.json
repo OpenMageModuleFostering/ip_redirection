@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/ip_redirection",
+    "type": "magento-module",
+    "license": "GNU-General-Public-Licence-(GPL)",
+    "homepage": "",
+    "description": "Custom Redirection after Login, Logged Out and signup into the website.",
+    "authors": [
+    {
+        "name": "iPragmatech",
+        "email": "info@ipragmatech.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
