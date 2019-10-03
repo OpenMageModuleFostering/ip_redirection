@@ -1,5 +1,5 @@
 {
-    "name": "OpenMageModuleFostering\/ip_redirection",
+    "name": "openmage-module-fostering\/ip_redirection",
     "type": "magento-module",
     "license": "GNU-General-Public-Licence-(GPL)",
     "homepage": "",
